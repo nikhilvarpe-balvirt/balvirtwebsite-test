@@ -1,0 +1,71 @@
+# ============================================================================
+#  Balvirt website: Apache rules (GoDaddy / cPanel). Uploaded together with the site.
+#  Needs mod_rewrite (standard on cPanel). Compression and caching rules are optional extras.
+# ============================================================================
+
+Options -Indexes -MultiViews
+DirectorySlash Off
+ErrorDocument 404 /404.html
+DirectoryIndex index.html index.php
+
+# Never serve this file (or any .ht* file) to visitors
+<FilesMatch "^\.ht">
+Require all denied
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# 1) One canonical address: https://balvirt.com (no www, always https).
+#    Remove this block if your hosting already forces https/www in cPanel or Cloudflare.
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://balvirt.com%{REQUEST_URI} [L,R=301]
+
+# 2) Old website addresses -> new addresses (permanent redirects keep the Google ranking).
+RewriteRule ^index\.html$        /           [R=301,L,NC]
+RewriteRule ^about\.html$        /about      [R=301,L,NC]
+RewriteRule ^services\.html$     /services   [R=301,L,NC]
+RewriteRule ^industries\.html$   /industries [R=301,L,NC]
+RewriteRule ^technology\.html$   /technology [R=301,L,NC]
+RewriteRule ^why-us\.html$       /why-us     [R=301,L,NC]
+RewriteRule ^career\.html$       /careers    [R=301,L,NC]
+RewriteRule ^carrers\.html$      /careers    [R=301,L,NC]
+RewriteRule ^insights\.html$     /insights   [R=301,L,NC]
+RewriteRule ^gallery\.html$      /gallery    [R=301,L,NC]
+RewriteRule ^contact\.html$      /contact    [R=301,L,NC]
+
+# 3) /about/ -> /about (one address per page)
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+# 4) Clean URLs: /about is served from about/index.html (the pre-built page)
+RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
+RewriteRule ^([^.]+)$ /$1/index.html [L]
+</IfModule>
+
+# Compress text files
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/xml application/javascript text/javascript application/json image/svg+xml
+</IfModule>
+
+# Browser caching (page files are re-checked every time, assets are cached)
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresDefault                "access plus 1 month"
+ExpiresByType text/html       "access plus 0 seconds"
+ExpiresByType application/xml "access plus 1 day"
+ExpiresByType text/css        "access plus 1 year"
+ExpiresByType text/javascript "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 year"
+ExpiresByType image/webp      "access plus 1 month"
+ExpiresByType image/jpeg      "access plus 1 month"
+ExpiresByType image/png       "access plus 1 month"
+ExpiresByType video/mp4       "access plus 1 month"
+</IfModule>
+
+# Basic security headers
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

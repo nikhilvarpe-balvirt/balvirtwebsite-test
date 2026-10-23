@@ -1,0 +1,7 @@
+<FilesMatch "\.(json|csv)$">
+  Require all denied
+</FilesMatch>
+# helper files are only ever included by the form handlers, never opened directly
+<FilesMatch "^(security|sendgrid_config|sendgrid_helper|config\.local)\.php$">
+  Require all denied
+</FilesMatch>
