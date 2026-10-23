@@ -37,8 +37,8 @@ export default function Products() {
     <>
       <Seo
         path="/products"
-        title="Software Products: Balsuite, Balfrevo, Layvora | Balvirt"
-        description="Balsuite business management platform, Balfrevo freight brokerage system and Layvora poultry farm management app, built by Balvirt."
+        title="Software Products: Balsuite, Freymora, Layvora | Balvirt"
+        description="Balsuite business management platform, Freymora freight brokerage system and Layvora poultry farm management app, built by Balvirt."
         jsonLd={jsonLd}
       />
       <PageHero eyebrow="Our products" title="Ready-to-use software," highlight="built by Balvirt" subtitle="Beyond consulting, we build and run our own platforms for business management, logistics and farming, so you can start with proven software instead of from scratch.">

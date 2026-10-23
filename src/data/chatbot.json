@@ -4,7 +4,7 @@
   "questions": [
    {
     "question": "What is Balvirt?",
-    "answer": "Balvirt is a technology and consulting company. We provide AI integrations, automated workflows, custom websites and software, Oracle NetSuite ERP services, technology consulting and business advisory, and we build our own products: Balsuite, Balfrevo and Layvora. We also run Balvirttechhub, our training and career institute."
+    "answer": "Balvirt is a technology and consulting company. We provide AI integrations, automated workflows, custom websites and software, Oracle NetSuite ERP services, technology consulting and business advisory, and we build our own products: Balsuite, Freymora and Layvora. We also run Balvirttechhub, our training and career institute."
    },
    {
     "question": "What is the mission of Balvirt?",
@@ -82,15 +82,15 @@
   "questions": [
    {
     "question": "What products does Balvirt offer?",
-    "answer": "Balvirt builds three products:<br>• Balsuite: a complete business management platform (tasks, projects, timesheets, leave, assets, IT support and more)<br>• Balfrevo: a freight brokerage platform<br>• Layvora: poultry management with web and mobile apps (subscription)<br>Visit the Products page to learn more or request a demo."
+    "answer": "Balvirt builds three products:<br>• Balsuite: a complete business management platform (tasks, projects, timesheets, leave, assets, IT support and more)<br>• Freymora: a freight brokerage platform<br>• Layvora: poultry management with web and mobile apps (subscription)<br>Visit the Products page to learn more or request a demo."
    },
    {
     "question": "What is Balsuite?",
     "answer": "Balsuite is a complete, customizable business management platform. It covers employees, tasks, timesheets, shift and leave management, projects and sprints, asset management, IT support, expenses, announcements and checklists, plus an external client support portal and integrations with tools like Jira and Teamwork."
    },
    {
-    "question": "What is Balfrevo?",
-    "answer": "Balfrevo is a freight brokerage platform. It runs transport operations, customer billing and vendor payments for all your branches in one place, from booking to settlement."
+    "question": "What is Freymora?",
+    "answer": "Freymora is a freight brokerage platform. It runs transport operations, customer billing and vendor payments for all your branches in one place, from booking to settlement."
    },
    {
     "question": "What is Layvora?",
@@ -98,7 +98,7 @@
    },
    {
     "question": "Can I get a demo of your products?",
-    "answer": "Yes. Open the Products page and click \"Request a demo\" on Balsuite, Balfrevo or Layvora, or use the Contact page, and our team will get back to you within 24 hours."
+    "answer": "Yes. Open the Products page and click \"Request a demo\" on Balsuite, Freymora or Layvora, or use the Contact page, and our team will get back to you within 24 hours."
    }
   ]
  },

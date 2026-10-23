@@ -8,7 +8,7 @@ import { INDUSTRIES, SITE, STATS, YEARS } from '../data/site'
 import { PRODUCTS, TECH_SERVICES } from '../data/company'
 
 const ROTATING = ['AI Solutions', 'NetSuite ERP', 'Automation', 'Custom Software', 'Web Platforms']
-const MARQUEE = ['AI Integrations', 'Workflow Automation', 'Oracle NetSuite', 'Custom Software', 'Custom Websites', 'Balsuite', 'Balfrevo', 'Layvora', 'Celigo iPaaS', 'Business Advisory']
+const MARQUEE = ['AI Integrations', 'Workflow Automation', 'Oracle NetSuite', 'Custom Software', 'Custom Websites', 'Balsuite', 'Freymora', 'Layvora', 'Celigo iPaaS', 'Business Advisory']
 
 const OFFERINGS = [
   { id: 'netsuite', icon: 'Rocket', title: 'Oracle NetSuite ERP', short: 'Implementation, customization, integration and 24/7 support from experienced consultants.' },
@@ -32,7 +32,7 @@ const JSON_LD = {
       url: SITE.url,
       logo: `${SITE.url}/images/logo1.png`,
       image: `${SITE.url}/images/og-share.jpg`,
-      description: 'Technology and consulting company offering AI integrations, automated workflows, custom websites and software, app development, Oracle NetSuite ERP services and its own products: Balsuite, Balfrevo and Layvora.',
+      description: 'Technology and consulting company offering AI integrations, automated workflows, custom websites and software, app development, Oracle NetSuite ERP services and its own products: Balsuite, Freymora and Layvora.',
       email: SITE.email,
       telephone: SITE.phone,
       founder: { '@type': 'Person', name: 'Ramdas Darade', jobTitle: 'Founder & CEO' },
@@ -148,7 +148,7 @@ export default function Home() {
       <Seo
         path="/"
         title="Balvirt | AI, Custom Software & NetSuite ERP Consulting"
-        description="AI integrations, workflow automation, custom software and Oracle NetSuite ERP consulting in India. Explore our products: Balsuite, Balfrevo and Layvora."
+        description="AI integrations, workflow automation, custom software and Oracle NetSuite ERP consulting in India. Explore our products: Balsuite, Freymora and Layvora."
         jsonLd={JSON_LD}
       />
       <Hero />
@@ -162,7 +162,7 @@ export default function Home() {
             <h2 className="mt-5 text-3xl font-bold leading-tight sm:text-5xl">Expert consulting for <span className="text-gradient">AI, software &amp; ERP</span></h2>
             <div className="mt-6 space-y-4 leading-relaxed text-muted">
               <p>Balvirt helps businesses become Cloud-ready, Data-ready and AI-ready. We build AI integrations, automated workflows, custom websites and software, and give the consulting and business advice that keeps projects on track.</p>
-              <p>We also provide specialist Oracle NetSuite ERP consulting for Manufacturing, Retail, Wholesale and E-Commerce businesses, and we build and run our own products: Balsuite, Balfrevo and Layvora.</p>
+              <p>We also provide specialist Oracle NetSuite ERP consulting for Manufacturing, Retail, Wholesale and E-Commerce businesses, and we build and run our own products: Balsuite, Freymora and Layvora.</p>
               <p>With {YEARS}+ years of delivery experience and a 98% client satisfaction rate, we make sure every solution delivers measurable results and lasting value.</p>
             </div>
             <div className="mt-8 flex flex-wrap gap-4">

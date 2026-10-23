@@ -98,7 +98,7 @@ export default function Footer() {
                 <img src="/images/logo1.png" alt="Balvirt" className="h-9 w-auto" />
               </Link>
               <p className={`mt-5 max-w-sm text-sm leading-relaxed ${MUTED}`}>
-                AI integrations, automated workflows, custom software and Oracle NetSuite ERP consulting, plus our own products: Balsuite, Balfrevo and Layvora.
+                AI integrations, automated workflows, custom software and Oracle NetSuite ERP consulting, plus our own products: Balsuite, Freymora and Layvora.
               </p>
               <div className="mt-6 flex gap-3">
                 {SOCIALS.map(([I, href, label]) => (

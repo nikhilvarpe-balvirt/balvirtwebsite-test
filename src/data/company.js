@@ -116,9 +116,9 @@ export const PRODUCTS = [
     imageAlt: 'Balsuite dashboard showing projects, sprint velocity, team utilization and tasks',
   },
   {
-    id: 'balfrevo', name: 'Balfrevo', icon: 'Truck', category: 'Freight brokerage',
+    id: 'freymora', name: 'Freymora', icon: 'Truck', category: 'Freight brokerage',
     tagline: 'Simpler transport operations. Higher efficiency.',
-    desc: 'Balfrevo is a freight brokerage platform. Manage bookings, tracking, billing and vendor payments for all your branches in one platform.',
+    desc: 'Freymora is a freight brokerage platform. Manage bookings, tracking, billing and vendor payments for all your branches in one platform.',
     features: [
       ['Bookings and trips', 'Create loads and follow each trip from booked to invoiced'],
       ['Live trip status', 'Booked, dispatched, in transit, delivered and invoiced'],
@@ -130,9 +130,9 @@ export const PRODUCTS = [
     audience: 'Freight brokers and logistics businesses that want their whole operation in one system.',
     badges: ['Web platform', 'Multi-branch'],
     gradient: 'from-blue-600 to-cyan',
-    image: '/images/products/balfrevo.webp',
-    imageSm: '/images/products/balfrevo-sm.webp',
-    imageAlt: 'Balfrevo freight brokerage platform showing bookings, trip tracking, billing and vendor payments',
+    image: '/images/products/freymora.webp',
+    imageSm: '/images/products/freymora-sm.webp',
+    imageAlt: 'Freymora freight brokerage platform showing bookings, trip tracking, billing and vendor payments',
   },
   {
     id: 'layvora', name: 'Layvora', icon: 'Egg', category: 'Poultry management',
@@ -166,6 +166,6 @@ export const INSTITUTE = {
     ['Industry mentors', 'Learn from working practitioners'],
     ['Placement preparation', 'Support for interviews and market readiness'],
   ],
-  image: '/images/institute/balvirttechhub.webp',
+  image: '/images/institute/balvirttechhub-v2.webp',
   imageAlt: 'Balvirttechhub website showing a full stack development training session',
 }

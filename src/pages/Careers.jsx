@@ -168,7 +168,7 @@ export default function Careers() {
             </Reveal>
             <Reveal delay={0.12}>
               <div className="glass glow-border relative overflow-hidden rounded-[2rem] p-3">
-                <img src={INSTITUTE.image} alt={INSTITUTE.imageAlt} width="1600" height="795" loading="lazy" className="h-auto w-full rounded-[1.5rem]" />
+                <img src={INSTITUTE.image} alt={INSTITUTE.imageAlt} width="1600" height="792" loading="lazy" className="h-auto w-full rounded-[1.5rem]" />
               </div>
             </Reveal>
           </div>

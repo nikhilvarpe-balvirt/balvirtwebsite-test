@@ -11,7 +11,7 @@ const OFFER = [
   'AI integrations and automated workflows that remove manual work and save hours every week',
   'Custom websites, software and AI models built around your process',
   'Oracle NetSuite implementation, customization, integration and 24/7 support',
-  'Technology consulting and business advisory, plus our own products (Balsuite, Balfrevo and Layvora) and Balvirttechhub, our training and career institute',
+  'Technology consulting and business advisory, plus our own products (Balsuite, Freymora and Layvora) and Balvirttechhub, our training and career institute',
 ]
 const PILLARS = [
   { icon: Zap, t: 'Fast implementation', d: 'Quick, efficient deployment of NetSuite solutions tailored to your business needs.' },

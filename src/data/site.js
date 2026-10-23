@@ -40,7 +40,7 @@ export const NAV = [
     label: 'Products', to: '/products',
     children: [
       ['Balsuite', '/products#balsuite'],
-      ['Balfrevo', '/products#balfrevo'],
+      ['Freymora', '/products#freymora'],
       ['Layvora', '/products#layvora'],
     ],
   },
