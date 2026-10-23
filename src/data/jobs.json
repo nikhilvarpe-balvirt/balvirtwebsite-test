@@ -1,0 +1,184 @@
+{
+ "full-stack": {
+  "title": "Full Stack Developer",
+  "subtitle": "Works on both frontend & backend, building websites and server-side logic.",
+  "image": "/images/1_fresher/Full-Stack-Developer.webp",
+  "sections": [
+   {
+    "title": "What Is It",
+    "blocks": [
+     {
+      "p": "Works on both frontend & backend, building websites and server-side logic."
+     }
+    ]
+   },
+   {
+    "title": "Skills Required",
+    "blocks": [
+     {
+      "h4": "1. Frontend Skills (Client-side)"
+     },
+     {
+      "ul": [
+       "HTML, CSS, JavaScript – fundamentals of web development",
+       "Frontend frameworks/libraries: React.js, Angular, Vue.js",
+       "Responsive design & basic UI/UX",
+       "Optional: TypeScript, Bootstrap, Tailwind CSS"
+      ]
+     },
+     {
+      "h4": "2. Backend Skills (Server-side)"
+     },
+     {
+      "ul": [
+       "Languages: Java, Python, Node.js, PHP, Ruby, or C#",
+       "Frameworks: Spring Boot, Django/Flask, Express.js",
+       "REST APIs / GraphQL",
+       "Authentication & security basics"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "support-specialist": {
+  "title": "Support Specialist",
+  "subtitle": "Helps clients troubleshoot and solve issues efficiently.",
+  "image": "/images/1_fresher/Support-Specialists.jpg",
+  "sections": [
+   {
+    "title": "What it is",
+    "blocks": [
+     {
+      "p": "Helps clients troubleshoot and solve issues efficiently."
+     }
+    ]
+   },
+   {
+    "title": "Skills Required",
+    "blocks": [
+     {
+      "h4": "1. Communication Skills"
+     },
+     {
+      "ul": [
+       "Clear verbal and written communication",
+       "Ability to explain technical issues to non-technical users",
+       "Active listening and empathy for clients"
+      ]
+     },
+     {
+      "h4": "2. Technical / ERP Basics"
+     },
+     {
+      "ul": [
+       "Understanding of ERP systems and workflows",
+       "Basic troubleshooting of software and tools",
+       "Ability to guide users step-by-step"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "quality-analyst": {
+  "title": "Quality Analyst",
+  "subtitle": "Tests ERP systems to ensure high quality.",
+  "image": "/images/1_fresher/q.jpg",
+  "sections": [
+   {
+    "title": "What it is",
+    "blocks": [
+     {
+      "p": "Tests ERP systems to ensure high quality."
+     }
+    ]
+   },
+   {
+    "title": "Skills Required",
+    "blocks": [
+     {
+      "h4": "1. Manual Testing"
+     },
+     {
+      "ul": [
+       "Creating and executing detailed test cases",
+       "Identifying, documenting, and reporting bugs effectively",
+       "Verifying fixes and performing regression testing"
+      ]
+     },
+     {
+      "h4": "2. Automation Testing"
+     },
+     {
+      "ul": [
+       "Developing and maintaining automated test scripts using tools like Selenium, TestNG, or similar frameworks",
+       "Automating repetitive test scenarios to improve efficiency",
+       "Performing API and integration testing",
+       "Ensuring continuous testing within CI/CD pipelines",
+       "Analyzing automation test results and optimizing scripts"
+      ]
+     },
+     {
+      "h4": "3. Attention to Details"
+     },
+     {
+      "ul": [
+       "Spotting inconsistencies, UI/UX issues, and data errors",
+       "Ensuring the software meets defined quality and business standards"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "digital-marketing": {
+  "title": "Digital Marketing Analyst",
+  "subtitle": "Promotes and grows ERP systems online.",
+  "image": "/images/1_fresher/Digital-marketing-analyst.jpg",
+  "sections": [
+   {
+    "title": "What it is",
+    "blocks": [
+     {
+      "p": "Promotes and grows ERP systems online."
+     }
+    ]
+   },
+   {
+    "title": "Skills Required",
+    "blocks": [
+     {
+      "h4": "1. SEO & Analytics"
+     },
+     {
+      "ul": [
+       "Optimizing content for search engines",
+       "Analyzing traffic and user behavior",
+       "Measuring campaign performance"
+      ]
+     },
+     {
+      "h4": "2. Social Media & Promotion"
+     },
+     {
+      "ul": [
+       "Managing social media campaigns",
+       "Creating engaging content",
+       "Spreading awareness about ERP solutions"
+      ]
+     },
+     {
+      "h4": "3. Strategy & Reporting"
+     },
+     {
+      "ul": [
+       "Planning digital marketing strategies",
+       "Reporting campaign results to stakeholders"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

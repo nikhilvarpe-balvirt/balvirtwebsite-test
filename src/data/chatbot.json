@@ -1,0 +1,258 @@
+{
+ "home": {
+  "title": "Home",
+  "questions": [
+   {
+    "question": "What is Balvirt?",
+    "answer": "Balvirt is a technology and consulting company. We provide AI integrations, automated workflows, custom websites and software, Oracle NetSuite ERP services, technology consulting and business advisory, and we build our own products: Balsuite, Balfrevo and Layvora. We also run Balvirttechhub, our training and career institute."
+   },
+   {
+    "question": "What is the mission of Balvirt?",
+    "answer": "We empower businesses with innovative, scalable digital solutions that streamline operations, deliver real-time insights, and unlock growth—while ensuring cloud, data, and AI readiness with long-term, client-focused excellence"
+   },
+   {
+    "question": "What is Balvirt vision?",
+    "answer": "We simplify complexity, boost productivity, and deliver innovative, reliable ERP and technology solutions that empower smarter decisions, seamless experiences, and sustainable business growth."
+   },
+   {
+    "question": "Who founded Balvirt?",
+    "answer": "Balvirt was founded by a team of passionate technology enthusiasts with years of experience in digital transformation and innovation."
+   },
+   {
+    "question": "What makes Balvirt different?",
+    "answer": "We combine cutting-edge technology with business understanding to deliver solutions that actually work and drive real growth for our clients."
+   }
+  ]
+ },
+ "services": {
+  "title": "Services",
+  "questions": [
+   {
+    "question": "Do you build mobile and web apps?",
+    "answer": "Yes. Our App Development service covers Android, iOS and cross-platform mobile apps and web apps, including UI/UX design, backend and API development, store launch and ongoing support. See the Services page for details."
+   },
+   {
+    "question": "Do you provide AI integrations and automation?",
+    "answer": "Yes. We add practical AI (assistants, document extraction, predictive insights) and automated workflows to the systems you already use, including NetSuite. See the Services page for details."
+   },
+   {
+    "question": "Do you offer business advisory and consulting?",
+    "answer": "Yes. Beyond technology delivery we offer technology consulting and business advisory, including roadmaps, process improvement, KPI design and ongoing advisory support."
+   },
+   {
+    "question": "What are the main services offered by Balvirt?",
+    "answer": "Balvirt provides comprehensive IT solutions including:<br>• Full-stack web development<br>• Mobile app development<br>• Cloud computing & hosting<br>• UI/UX design<br>• AI & machine learning integration<br>• Cybersecurity & IT consulting<br>• Digital marketing and branding services<br>Looking for what we can do for you? Head over to the Services Page to find out."
+   },
+   {
+    "question": "What web development services do you provide?",
+    "answer": "Balvirt creates websites with modern frameworks like React, Node.js, and Django. We ensure every website is SEO-optimized, mobile-friendly, and aligned with business goals. Our websites are built for performance and user experience."
+   },
+   {
+    "question": "Do you offer e-commerce website solutions?",
+    "answer": "Yes! Balvirt provides e-commerce platforms with advanced features like payment gateway integration, product management, analytics, and responsive design for better sales performance."
+   },
+   {
+    "question": "What about mobile app development?",
+    "answer": "Our mobile development team uses Flutter, React Native, and native technologies to deliver high-performance apps for businesses and startups. We focus on creating intuitive user experiences."
+   },
+   {
+    "question": "Do you provide digital marketing services?",
+    "answer": "Yes, Balvirt offers SEO, social media marketing, email campaigns, and brand management to increase online visibility and engagement."
+   },
+   {
+    "question": "Do you offer tech consulting services?",
+    "answer": "Absolutely! Our experts analyze business needs and recommend the best tools, frameworks, and tech stacks to maximize efficiency and results."
+   },
+   {
+    "question": "Does Balvirt provide maintenance or post-launch support?",
+    "answer": "Yes, we provide 24/7 maintenance and technical support. After project delivery, our team ensures continuous updates, security patches, and performance optimization."
+   },
+   {
+    "question": "What is your pricing model?",
+    "answer": "We offer flexible pricing models - fixed price for well-defined projects, hourly rates for ongoing work, and dedicated team models for long-term engagements."
+   },
+   {
+    "question": "Do you work on small projects?",
+    "answer": "Yes! We work with projects of all sizes - from small business websites to large enterprise applications."
+   }
+  ]
+ },
+ "products": {
+  "title": "Products",
+  "questions": [
+   {
+    "question": "What products does Balvirt offer?",
+    "answer": "Balvirt builds three products:<br>• Balsuite: a complete business management platform (tasks, projects, timesheets, leave, assets, IT support and more)<br>• Balfrevo: a freight brokerage platform<br>• Layvora: poultry management with web and mobile apps (subscription)<br>Visit the Products page to learn more or request a demo."
+   },
+   {
+    "question": "What is Balsuite?",
+    "answer": "Balsuite is a complete, customizable business management platform. It covers employees, tasks, timesheets, shift and leave management, projects and sprints, asset management, IT support, expenses, announcements and checklists, plus an external client support portal and integrations with tools like Jira and Teamwork."
+   },
+   {
+    "question": "What is Balfrevo?",
+    "answer": "Balfrevo is a freight brokerage platform. It runs transport operations, customer billing and vendor payments for all your branches in one place, from booking to settlement."
+   },
+   {
+    "question": "What is Layvora?",
+    "answer": "Layvora is a poultry farm management system offered on a subscription basis, with web and mobile apps. Track flock health, monitor egg production, manage sales, and work offline on Android, in English or Marathi."
+   },
+   {
+    "question": "Can I get a demo of your products?",
+    "answer": "Yes. Open the Products page and click \"Request a demo\" on Balsuite, Balfrevo or Layvora, or use the Contact page, and our team will get back to you within 24 hours."
+   }
+  ]
+ },
+ "industries": {
+  "title": "Industries",
+  "questions": [
+   {
+    "question": "Which industries does Balvirt serve?",
+    "answer": "Balvirt provides solutions for:<br>• Education and E-Learning<br>• Healthcare and Pharmaceuticals<br>• Retail and E-commerce<br>• Finance and Banking<br>• Manufacturing and Industrial Automation<br>• Travel and Tourism<br>• Real Estate and Property Management<br>• Information Technology and Software<br>To explore how we work across various sectors, check out the Industries Page."
+   },
+   {
+    "question": "Do you work with startups and small businesses?",
+    "answer": "Yes, we love helping startups grow! Balvirt assists startups by creating MVPs, offering affordable tech solutions, and providing digital growth strategies for scaling."
+   },
+   {
+    "question": "Do you serve enterprise-level clients?",
+    "answer": "Yes, we work with enterprise clients. Our enterprise solutions include large-scale systems, ERP software, automation tools, and customized workflow platforms."
+   },
+   {
+    "question": "How does Balvirt help the education sector?",
+    "answer": "Balvirt develops e-learning portals, LMS systems, and AI-based educational tools for schools, colleges, and training institutions."
+   },
+   {
+    "question": "What digital solutions do you provide for healthcare?",
+    "answer": "We build telemedicine apps, appointment systems, and patient data solutions to simplify healthcare delivery and improve patient outcomes."
+   },
+   {
+    "question": "Can Balvirt create automation systems for industries?",
+    "answer": "Yes! Balvirt designs AI-based control and monitoring systems that improve efficiency, productivity, and safety in industrial environments."
+   },
+   {
+    "question": "Do you have experience in fintech?",
+    "answer": "Yes, we've developed secure financial applications, payment gateways, and banking solutions with compliance to financial regulations."
+   }
+  ]
+ },
+ "technology": {
+  "title": "Technology",
+  "questions": [
+   {
+    "question": "What technologies does Balvirt use for development?",
+    "answer": "Balvirt's tech stack includes HTML5, CSS3, JavaScript, React, Node.js, Python, Django, Flutter, and cloud solutions like AWS and Azure.<br>Looking for more details? Visit the Technology Page for everything you need!"
+   },
+   {
+    "question": "Which database systems do you use?",
+    "answer": "Depending on project needs, we work with MySQL, PostgreSQL, MongoDB, and Firebase to ensure data efficiency and scalability."
+   },
+   {
+    "question": "Does Balvirt use Artificial Intelligence (AI)?",
+    "answer": "Yes! We integrate AI for automation, data analysis, chatbots, predictive models, and process optimization across industries."
+   },
+   {
+    "question": "What tools do you use for design and UI/UX?",
+    "answer": "Our design team uses Figma, Adobe XD, and Photoshop to create visually appealing and user-friendly interfaces."
+   },
+   {
+    "question": "What security practices do you follow?",
+    "answer": "We follow global cybersecurity standards including encryption, data backups, authentication systems, and regular vulnerability checks."
+   },
+   {
+    "question": "Do you support cloud and DevOps solutions?",
+    "answer": "Yes, we handle full cloud deployment and DevOps pipelines using CI/CD, Docker, AWS, and GCP."
+   },
+   {
+    "question": "Do you work with blockchain technology?",
+    "answer": "Yes, we have experience in blockchain development for secure transactions and decentralized applications."
+   }
+  ]
+ },
+ "careers": {
+  "title": "Careers",
+  "questions": [
+   {
+    "question": "How to apply for a job or internship?",
+    "answer": "Browse available positions on our Careers page, upload your resume, and our team will contact you if shortlisted. We welcome passionate individuals!"
+   },
+   {
+    "question": "Do you hire freshers?",
+    "answer": "Yes! We welcome freshers and provide training opportunities. Our internship programs help students gain practical experience."
+   },
+   {
+    "question": "What kind of team culture do you have?",
+    "answer": "We encourage creativity, teamwork, and continuous learning in an open work culture. Our team members support each other and collaborate effectively."
+   },
+   {
+    "question": "Do you offer remote work options?",
+    "answer": "Yes, depending on the project and role, Balvirt provides remote work options and flexible schedules."
+   },
+   {
+    "question": "What are the current job openings?",
+    "answer": "We're always looking for talented developers, designers, and project managers. Check our Careers page for current openings and requirements."
+   },
+   {
+    "question": "Do you provide training?",
+    "answer": "Yes, we provide regular training sessions, workshops, and learning opportunities to help our team grow professionally."
+   },
+   {
+    "question": "What is Balvirttechhub?",
+    "answer": "Balvirttechhub is Balvirt's own training and career institute. It offers mentor-led, hands-on programs in Java Full Stack + AI, NetSuite (Functional and Technical) and Generative AI, with placement preparation. Visit the Careers page and use Enquire now to get in touch."
+   }
+  ]
+ },
+ "about": {
+  "title": "About",
+  "questions": [
+   {
+    "question": "Who created Balvirt?",
+    "answer": "Balvirt was founded by a passionate team focused on digital innovation and technology solutions<br>If you're interested, feel free to explore the About Page for more details."
+   },
+   {
+    "question": "Where is Balvirt located?",
+    "answer": "We're based in India with clients across the globe. Our main office is located at Hirai Estate, Aadarshnagar, Ghulewadi, Tal-Sangamner, Dist-Ahilyanagar, Maharashtra - 422605. You can reach us at +91 9665521708 or contact@balvirt.com"
+   },
+   {
+    "question": "How long has Balvirt been in business?",
+    "answer": "Balvirt has been delivering innovative technology solutions and helping businesses transform digitally with years of industry experience."
+   },
+   {
+    "question": "What is Balvirt's team size?",
+    "answer": "We have a growing team of skilled professionals including developers, designers, project managers, and business analysts."
+   },
+   {
+    "question": "What are Balvirt's achievements?",
+    "answer": "We've successfully delivered 205+ projects, helped numerous businesses grow digitally, and maintained long-term relationships with our clients."
+   }
+  ]
+ },
+ "contact": {
+  "title": "Contact",
+  "questions": [
+   {
+    "question": "How can I contact Balvirt?",
+    "answer": "You can reach us through:<br>• Phone: +91 9665521708<br>• Email: contact@balvirt.com<br>• Contact Form on our website<br>We typically respond within 24 hours."
+   },
+   {
+    "question": "Can I request a quote?",
+    "answer": "Yes! Contact us with your project details, and we'll provide a customized quote based on your requirements and timeline."
+   },
+   {
+    "question": "What's the average project duration?",
+    "answer": "Small websites may take 1-2 weeks, while large-scale apps may take 1-3 months. We provide detailed timelines during planning."
+   },
+   {
+    "question": "Do you offer free consultations?",
+    "answer": "Yes, we offer free initial consultations to understand your requirements and suggest the best solutions for your business."
+   },
+   {
+    "question": "What is your working hours?",
+    "answer": "We work from 8:30 AM to 5:30 PM IST, Monday to Friday. For urgent matters, we provide 24/7 support to our clients."
+   },
+   {
+    "question": "Do you work with international clients?",
+    "answer": "Yes! We have clients from various countries and we're comfortable working across different time zones."
+   }
+  ]
+ }
+}

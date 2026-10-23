@@ -1,0 +1,127 @@
+[
+ {
+  "id": 1,
+  "name": "Dussehra Event 2025",
+  "desc": "Balvirt family celebrated dussehra with great enthusiasm and togetherness. The entire office was beautifully decorated with lights and traditional designs. Team members wore ethnic attire and showcased cultural performances that filled the environment with festive joy.",
+  "images": [
+   "images/teams/gr5_pc.jpg",
+   "images/teams/gr2.jpg",
+   "images/teams/gr3_with_men.jpg",
+   "images/teams/gr4_team_discussion.jpg",
+   "images/teams/dashera.jpeg",
+   "images/teams/dashera1.jpeg"
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Independence Day",
+  "desc": "The Balvirt team marked Independence Day with flag hoisting, patriotic events, and a spirit of pride and togetherness.",
+  "images": [
+   "images/teams/gr9_celebration_img.jpg",
+   "images/teams/gr6_celebration_culture_days.jpg",
+   "images/teams/gr8_games.jpg",
+   "images/teams/gr7_friendly_with_workers.jpg",
+   "images/teams/gr19.jpg"
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Diwali Fest 2025",
+  "desc": "A festival of lights and smiles — Balvirt's diwali fest glowed with joy, positivity, and team spirit.",
+  "images": [
+   "images/teams/diwali_team.jpg",
+   "images/teams/diwali2.jpg",
+   "images/teams/diwali_hr.jpg",
+   "images/teams/diwali_boy2.jpg",
+   "images/teams/diwali1.jpg",
+   "images/teams/diwali_fealisitation.jpg",
+   "images/teams/diwali4.jpg",
+   "images/teams/diwali3.jpg",
+   "images/teams/diwali11.jpg"
+  ]
+ },
+ {
+  "id": 4,
+  "name": "4th Foundation Day Celebration",
+  "desc": "Balvirt proudly celebrated its 4th Foundation Day with great joy and enthusiasm. The entire Balvirt family gathered together to mark this special milestone and celebrate the journey of growth and success. ✨ Together we grow, together we succeed....!",
+  "images": [
+   "images/foundation_day/img1.jpeg",
+   "images/foundation_day/img1_3.jpeg",
+   "images/foundation_day/img1_2.jpeg",
+   "images/foundation_day/img3.jpeg",
+   "images/foundation_day/img3_1.jpeg",
+   "images/foundation_day/img4_1.jpeg",
+   "images/foundation_day/img4.jpeg",
+   "images/foundation_day/img5_1.jpeg",
+   "images/foundation_day/img5.jpeg",
+   "images/foundation_day/img6.jpeg",
+   "images/foundation_day/img7.jpeg",
+   "images/foundation_day/img8.jpeg",
+   "images/foundation_day/img9.jpeg",
+   "images/foundation_day/img10.jpeg",
+   "images/foundation_day/img11.jpeg",
+   "images/foundation_day/img12.jpeg",
+   "images/foundation_day/img13.jpeg",
+   "images/foundation_day/img14.jpeg",
+   "images/foundation_day/img15.jpeg",
+   "images/foundation_day/img16.jpeg",
+   "images/foundation_day/img17.jpeg"
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Balvirt Premier League - 2026",
+  "desc": "Celebrating success with teamwork — both in the office and on the field.",
+  "images": [
+   "images/Cricket/img1_0.jpeg",
+   "images/Cricket/img1_2.jpeg",
+   "images/Cricket/img1_3.jpeg",
+   "images/Cricket/img1_4.jpeg",
+   "images/Cricket/img1.jpeg",
+   "images/Cricket/img2.jpeg",
+   "images/Cricket/img3_1.jpeg",
+   "images/Cricket/img4_1.jpeg",
+   "images/Cricket/img6.jpeg",
+   "images/Cricket/img7.jpeg",
+   "images/Cricket/img8.jpeg",
+   "images/Cricket/img11.jpeg",
+   "images/Cricket/img12.jpeg",
+   "images/Cricket/img16.jpeg",
+   "images/Cricket/img17.jpeg",
+   "images/Cricket/img18.jpeg",
+   "images/Cricket/img19.jpeg",
+   "images/Cricket/img21.jpeg",
+   "images/Cricket/img22.jpeg"
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Team Outing",
+  "desc": "A day out with the Balvirt team: fresh air, great views and plenty of group photos along the way.",
+  "images": []
+ },
+ {
+  "id": 7,
+  "name": "Inauguration",
+  "desc": "A look at the inauguration ceremony: the ribbon cutting, lamp lighting, felicitations and speeches from the day.",
+  "images": []
+ },
+ {
+  "id": 8,
+  "name": "Guest Visit",
+  "desc": "Welcoming our guests to the Balvirt office with a warm greeting and a tour of the workspace.",
+  "images": []
+ },
+ {
+  "id": 9,
+  "name": "Guest of Honor - AVCEO - Sports Day",
+  "desc": "Sports Day with our Guest of Honor, AVCEO: the ribbon cutting, cricket, indoor games and team moments.",
+  "images": []
+ },
+ {
+  "id": 10,
+  "name": "Ganesh Festival",
+  "desc": "Celebrating the Ganesh Festival at Balvirt with colour, devotion and togetherness.",
+  "images": []
+ }
+]
