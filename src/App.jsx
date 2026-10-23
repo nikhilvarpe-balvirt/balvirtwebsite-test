@@ -17,7 +17,7 @@ const NotFound = lazy(() => import('./pages/NotFound'))
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Suspense fallback={<div className="min-h-screen" />}>
         <Routes>
           <Route element={<Layout />}>
